@@ -1,0 +1,8 @@
+flask
+requests
+filetype
+pytesseract
+pdfplumber
+python-docx
+openai
+Pillow
